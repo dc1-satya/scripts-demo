@@ -1,1 +1,48 @@
 How to Make a Mobile Wallet app?
+
+
+How can I start my own e wallet app?
+https://www.quora.com/How-can-I-start-my-own-e-wallet-app
+
+Online payment market is growing dramatically with the rapid emergence of many e-wallet companies. The various cashless payment methods came as a blessing after demonization, and nearly every second person whether reluctantly or willingly started using e-wallets for his/her day to day transactions.
+
+As a result, many people are looking forward to creating their e-wallet apps, since in current times it is one of the most popular and profitable product.
+
+If you too have a similar plan in mind, then we have the ultimate guide for you
+
+How to start an e-wallet app
+
+Before getting into the process of developing an e-wallet app, it is important that you understand the various related features like how do digital wallets function and who all can launch these.
+
+Registration with the RBI
+
+There are two types of enterprises which can start an e-wallet - Banks and Non-Banking Financial Companies (NBFCs). Hence, the first step towards creating an e-wallet is to get your company registered as an NBFC with the Reserve Bank of India (RBI). You can register with the RBI online on the website by filling the NBFC form. A prerequisite for this is that your company should own a minimum of 2 crores in the net fund.
+
+Programming language
+
+Normally, Java, NodeJS, Python, GO etc. are used for the development of e-wallet apps. However, Java is considered to be better because it provides stronger encryption and security. It is vital that your database is secured by passwords and customers are able to make secure transactions. More technical discussion is beyond the scope of this post. You need to contact me to discuss further :)
+
+The type of payments e-wallet apps should support
+
+Next step is to decide on the types of transactions your customers would be able to make through the e-wallet app like through online payments, PoS machines, and P2P funds transfer. Another feature you need to consider is the way the e-wallet would offer services, i.e. Near Field Communication (NFC), QR codes, or through payment app only.
+
+  For developing a payment app, you would also need to partner with the local and online retailers and merchants.
+
+  Features your e-wallet should have
+
+  For your e-wallet to be acceptable by the users and be successful as well, it should have the following features:
+
+  Instant access to coupons, rebates, discounts
+  Reward points
+  Budgeting tool which allows the user to keep track of his/her transactions on a monthly basis
+  Digital receipts if wanted by the user
+  Fingerprint scanning which is the feature-of-the-hour
+  Determinants that drive the e-wallets
+
+  Apart from the above features, there are certain determinants essential for your e-wallet to make a mark in the e-wallet market.
+
+  Loyalty programs by various brands and retailers
+  Various linkable payment options like credit/debit cards, bank accounts
+  Special discounts and offers for using your e-wallet
+  Reminders on in-wallet options
+  One aspect which should be considered while creating your e-wallet app is how competitive and feature-loaded the app is as compared to the existing mobile apps. The recent times have seen a plethora of e-wallet apps cropping up, the usage of e-wallets is sure to be increasing in the future. As the government is also encouraging cashless payment methods, launching an e-wallet can prove to be a profitable venture.
